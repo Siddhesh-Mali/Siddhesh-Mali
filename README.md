@@ -19,7 +19,7 @@ A web-based institute management system built with React, Spring Boot, MySQL, an
 
 ### Storm Water Drainage System (Civil Engineering Project)  
 Designed a sustainable urban drainage system using GIS, runoff estimation, and eco-friendly strategies.  
-[Repo Link](https://github.com/Siddhesh-Mali)  
+[Repo Link](https://github.com/Siddhesh-Mali/Civil-Engineering-Project)  
 
 ---
 
